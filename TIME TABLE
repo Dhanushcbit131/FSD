@@ -36,8 +36,8 @@
       <h4 class="text-center">
         Class Time Table for the AY 2024-25 ODD Semester
       </h4>
-      <h5 class="text-center">Class: BE - V Semester IT-1</h5>
-      <h6 class="text-center">Room No: L-305</h6>
+      <h5 class="text-center">Class: BE - V Semester IT-3</h5>
+      <h6 class="text-center">Room No: L-307</h6>
       <h6 class="text-center">W.E.F.: 30/07/2024</h6>
 
       <table class="table table-bordered timetable">
@@ -69,48 +69,49 @@
           </tr>
           <tr>
             <th>Monday</th>
-            <td>CT Lab (B1) / ML Lab (B2)</td>
-            <td>PE-2</td>
-            <td>CN</td>
-            <td>EAD</td>
-            <td>SE</td>
             <td>CN Lab (B1) / EAD Lab (B2)</td>
+            <td>CN Lab (B1) / EAD Lab (B2)</td>
+            <td>PE-2</td>
+            <td>EAD</td>
+            <td>ML</td>
+            <td>CN</td>
+            
           </tr>
           <tr>
             <th>Tuesday</th>
             <td>PE-2</td>
-            <td>ML</td>
+            <td>CN</td>
             <td>EAD</td>
+            <td>ML</td>
+            <td>FLAT</td>
             <td>SE</td>
-            <td>Library (B2)</td>
-            <td>CC Lab (B1)</td>
           </tr>
           <tr>
             <th>Wednesday</th>
-            <td>CN</td>
-            <td>EAD</td>
+            <td>CT Lab (B1) / ML Lab (B2)</td>
+            <td>CT Lab (B1) / ML Lab (B2)</td>
             <td>FLAT</td>
-            <td>ML</td>
-            <td>FLAT</td>
-            <td>Sports (B2)</td>
+            <td>SE</td>
+            <td>LIBRARY/SPORTS (B1) / CC(B2)</td>
+            <td>LIBRARY/SPORTS (B1) / CC(B2)</td>
           </tr>
           <tr>
             <th>Thursday</th>
-            <td>ML</td>
+            <td>SE</td>
+            <td>CN Lab (B2) / EAD Lab (B1)</td>
+            <td>CN Lab (B2) / EAD Lab (B1)</td>
             <td>CN</td>
-            <td>CT Lab (B2) / ML Lab (B1)</td>
-            <td>FLAT</td>
-            <td>Library (B1)</td>
-            <td>CC Lab (B2)</td>
+            <td>LIBRARY/SPORTS (B2) / CC(B1)</td>
+            <td>LIBRARY/SPORTS (B2) / CC(B1)</td>
           </tr>
           <tr>
             <th>Friday</th>
-            <td>CN Lab (B2) / EAD Lab (B1)</td>
-            <td>PE-2</td>
             <td>FLAT</td>
-            <td>SE</td>
-            <td>Library (B1)</td>
-            <td>Sports (B1)</td>
+            <td>ML</td>
+            <td>PE-2</td>
+            <td>EAD</td>
+            <td>CT Lab (B1) / ML Lab (B2)</td>
+            <td>CT Lab (B1) / ML Lab (B2)</td>
           </tr>
           <tr>
             <th>Saturday</th>
